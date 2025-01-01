@@ -59,16 +59,16 @@ A comprehensive, **cross-platform RMS system** for managing food, table booking,
   </tr>
   
   <tr>
-    <td align="center"><strong>Menu Management User part</strong></td>
-    <td align="center"><strong>Order Management for User part</strong></td>
-    <td align="center"><strong>Order Management for User part2</strong></td>
+    <td align="center"><strong>Order Management User Part</strong></td>
+    <td align="center"><strong>Order Management User Part2</strong></td>
     <td align="center"><strong>Order List Page User Part</strong></td>
+    <td align="center"><strong>Order List Page User Part2</strong></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/162478de-3d25-4614-9c62-846d033218a5" alt="user Dashbord" width="300"/></td>
     <td><img src="https://github.com/user-attachments/assets/54175a3c-02b9-46a1-ae10-fb92d66b517b" alt="all products" width="300"/></td>
     <td><img src="https://github.com/user-attachments/assets/1753971a-11f3-47d8-80bd-9687116d3531" alt="all propducts 2" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/092cc23d-821a-428f-b4f5-1df036507fea" alt="new products" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/aa9efc60-8b43-46e7-a684-09e948c6c7e3" alt="new products" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/78b90f64-4fca-4856-b697-5efab5c016ff" alt="user Dashbord" width="300"/></td>
   </tr>
 
   <tr>
