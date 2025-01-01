@@ -47,13 +47,13 @@ A comprehensive, **cross-platform RMS system** for managing food, table booking,
 <table>
   <tr>
     <td align="center"><strong>Registration Page</strong></td>
-    <td align="center"><strong>Login Screen</strong></td>
+    <td align="center"><strong>Login Page</strong></td>
     <td align="center"><strong>Dashboard</strong></td>
     <td align="center"><strong>Dashbord 2nd Part</strong></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/26bd1f0d-2d65-4abb-a100-382ffaf35d0f" alt="LogInPage" width="300" height="400"/></td>
-    <td><img src="https://github.com/user-attachments/assets/ad8ae5b4-913e-4efc-ae8a-8224991e0736" alt="AdminDashbord" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/26bd1f0d-2d65-4abb-a100-382ffaf35d0f" alt="RegistrationPage<" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/7beda32d-226e-4e2b-9664-a5a1676edbd4" alt="LoginPage" width="300"/></td>
     <td><img src="https://github.com/user-attachments/assets/c1649e7d-1e09-4c4b-9f71-2aa9b58aea7a" alt="AdminDashbord 2" width="300"/></td>
     <td><img src="https://github.com/user-attachments/assets/9f6559d7-03f3-4a38-aac9-0621f8309086" alt="Registration Page" width="300"/></td>
   </tr>
