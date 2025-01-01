@@ -6,8 +6,8 @@ A comprehensive, **cross-platform RMS system** for managing food, table booking,
 ---
 
 ## 📸 Project Overview
-![AdminDashbord]!(https://github.com/user-attachments/assets/db30fbdc-5cda-4a9b-b5ed-7d4128458947)
-![UserDashbord]!(https://github.com/user-attachments/assets/6e7086b5-2cda-4499-8c70-e7c46270a7b5)
+![AdminDashbord](https://github.com/user-attachments/assets/db30fbdc-5cda-4a9b-b5ed-7d4128458947)
+![UserDashbord](https://github.com/user-attachments/assets/6e7086b5-2cda-4499-8c70-e7c46270a7b5)
 
 ---
 
