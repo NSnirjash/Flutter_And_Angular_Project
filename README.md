@@ -49,7 +49,7 @@ A comprehensive, **cross-platform RMS system** for managing food, table booking,
     <td align="center"><strong>Registration Page</strong></td>
     <td align="center"><strong>Login Page</strong></td>
     <td align="center"><strong>User Dashboard</strong></td>
-    <td align="center"><strong>Menu Management</strong></td>
+    <td align="center"><strong>View Food Page/strong></td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/26bd1f0d-2d65-4abb-a100-382ffaf35d0f" alt="RegistrationPage<" width="300"/></td>
@@ -72,22 +72,22 @@ A comprehensive, **cross-platform RMS system** for managing food, table booking,
   </tr>
 
   <tr>
-    <td align="center"><strong>Admin Profile Page</strong></td>
-    <td align="center"><strong>All Available Categories Admin</strong></td>
-    <td align="center"><strong>All Available Categories User</strong></td>
-    <td align="center"><strong>Country View Page</strong></td>
+    <td align="center"><strong>Table Booking User Part</strong></td>
+    <td align="center"><strong>Admin Dashboard</strong></td>
+    <td align="center"><strong>User List Page</strong></td>
+    <td align="center"><strong>Customer List Page</strong></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/11402941-ec29-468b-a9e0-4caa3d049fe8" alt="profile page" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/5589f225-a852-45a2-8e00-16e55c392f36" alt="all categories admin" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/4be424ea-dc90-4043-adee-2581d041f0b2" alt="profile page" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/83a1cc79-ed0e-4b66-b504-f6fb38271d10" alt="all categories admin" width="300"/></td>
     <td><img src="https://github.com/user-attachments/assets/7b990ac3-9d1d-4fa7-a8cb-e02bb4aae5b7" alt="all categories user" width="300"/></td>
     <td><img src="https://github.com/user-attachments/assets/c8048244-3ff2-4e02-a473-dc2260e05488" alt="new products" width="300"/></td>
   </tr>
 
   <tr>
-    <td align="center"><strong>Product Management Admin</strong></td>
-    <td align="center"><strong>Product Management Admin2</strong></td>
-    <td align="center"><strong>Buyer Management</strong></td>
+    <td align="center"><strong>Waiter List Page</strong></td>
+    <td align="center"><strong>Menu Mangament</strong></td>
+    <td align="center"><strong>Add Food Page</strong></td>
     <td align="center"><strong>Category based Order page</strong></td>
   </tr>
   <tr>
