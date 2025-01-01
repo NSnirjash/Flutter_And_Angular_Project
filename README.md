@@ -80,18 +80,18 @@ A comprehensive, **cross-platform RMS system** for managing food, table booking,
   <tr>
     <td><img src="https://github.com/user-attachments/assets/4be424ea-dc90-4043-adee-2581d041f0b2" alt="profile page" width="300"/></td>
     <td><img src="https://github.com/user-attachments/assets/83a1cc79-ed0e-4b66-b504-f6fb38271d10" alt="all categories admin" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/7b990ac3-9d1d-4fa7-a8cb-e02bb4aae5b7" alt="all categories user" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/c8048244-3ff2-4e02-a473-dc2260e05488" alt="new products" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/22133309-23fb-4a17-b734-8526073de7a3" alt="all categories user" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b7db6b9b-8a82-4562-82b1-3f1e76639a79" alt="new products" width="300"/></td>
   </tr>
 
   <tr>
     <td align="center"><strong>Waiter List Page</strong></td>
     <td align="center"><strong>Menu Mangament</strong></td>
+    <td align="center"><strong>Menu Mangament Part2</strong></td>
     <td align="center"><strong>Add Food Page</strong></td>
-    <td align="center"><strong>Category based Order page</strong></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/dc4f2d1a-2c88-4fd9-9812-8f458574a797" alt="profile page" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/da6ee2f5-66d1-4fc3-bd98-3f7a48f77aa4" alt="profile page" width="300"/></td>
     <td><img src="https://github.com/user-attachments/assets/63594ba9-7ea7-44b2-8ea4-6089c200a6ce" alt="all categories admin" width="300"/></td>
     <td><img src="https://github.com/user-attachments/assets/4662f41e-6875-4eb5-9fdc-65993b050d0a" alt="all categories user" width="300"/></td>
     <td><img src="https://github.com/user-attachments/assets/d439bfca-f9f8-4433-9550-1c119e6b8bca" alt="new products" width="300"/></td>
