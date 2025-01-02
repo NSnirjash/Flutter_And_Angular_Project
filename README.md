@@ -162,7 +162,7 @@ A comprehensive, **cross-platform RMS system** for managing food, table booking,
     <td><img src="https://github.com/user-attachments/assets/943d4d51-dc95-4049-8daf-2b4bf804bf8d" alt="profile page" width="300"/></td>
     <td><img src="https://github.com/user-attachments/assets/2bd22db2-804f-4bb9-b168-5dca9e8cd4f8" alt="all categories admin" width="300"/></td>
     <td><img src="https://github.com/user-attachments/assets/f1fc4f69-2d5b-4821-bfcc-080a63412615" alt="all categories user" width="300"/></td>
-    <td>/td>
+    <td></td>
   </tr>
   
 </table>
