@@ -52,7 +52,7 @@ A comprehensive, **cross-platform RMS system** for managing food, table booking,
     <td align="center"><strong>View Food Page/strong></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/26bd1f0d-2d65-4abb-a100-382ffaf35d0f" alt="RegistrationPage<" width="300" height="470"/></td>
+    <td><img src="https://github.com/user-attachments/assets/26bd1f0d-2d65-4abb-a100-382ffaf35d0f" alt="RegistrationPage" width="300" height="470"/></td>
     <td><img src="https://github.com/user-attachments/assets/7beda32d-226e-4e2b-9664-a5a1676edbd4" alt="LoginPage" width="300" height="470"/></td>
     <td><img src="https://github.com/user-attachments/assets/535e33da-cb10-4ef4-91a2-4d625dab51f2" alt="UserDashboard" width="300" height="470"/></td>
     <td><img src="https://github.com/user-attachments/assets/ab04b6c4-d631-44bb-a62a-632e99449e3e" alt="MenuManagement" width="300" height="470"/></td>
@@ -168,3 +168,15 @@ A comprehensive, **cross-platform RMS system** for managing food, table booking,
 </table>
 
 ---
+
+## 💬 Contact  
+
+Feel free to reach out with questions, suggestions, or feedback:  
+
+**Developer:** Nasif Shahriar (Nirjash)  
+**GitHub:** [@NSnirjash](https://github.com/NSnirjash)  
+**LinkedIn:** [@Nasif_Shahriar](https://www.linkedin.com/in/nasif-shahriar-nirjash/)  
+
+---
+
+⭐ **If you find this project helpful, please give it a star on GitHub!** ⭐  
