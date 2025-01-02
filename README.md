@@ -92,9 +92,9 @@ A comprehensive, **cross-platform RMS system** for managing food, table booking,
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/a0a0032b-350c-4194-8324-e27346985f2f" alt="profile page" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/63594ba9-7ea7-44b2-8ea4-6089c200a6ce" alt="all categories admin" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/4662f41e-6875-4eb5-9fdc-65993b050d0a" alt="all categories user" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/d439bfca-f9f8-4433-9550-1c119e6b8bca" alt="new products" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/accc8ff8-c387-4fe4-9dc8-c573e158b921" alt="all categories admin" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/f28d9313-b43d-4bff-9924-56f88b605329" alt="all categories user" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c4d7a6f9-dfbb-4620-aa5f-4660b981ffc7" alt="new products" width="300"/></td>
   </tr>
 
   <tr>
