@@ -98,16 +98,16 @@ A comprehensive, **cross-platform RMS system** for managing food, table booking,
   </tr>
 
   <tr>
-    <td align="center"><strong>Confirm Order</strong></td>
-    <td align="center"><strong>Edit Product</strong></td>
-    <td align="center"><strong>Kids Ware Products</strong></td>
-    <td align="center"><strong>Mans Accessories </strong></td>
+    <td align="center"><strong>Table Management</strong></td>
+    <td align="center"><strong>Add Tabbe Page</strong></td>
+    <td align="center"><strong>Order List Page Admin Part</strong></td>
+    <td align="center"><strong>Order List Page Admin Part2</strong></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/6db9d10f-5948-4e42-a5dc-b9a0c50d8448" alt="profile page" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/ecbf7322-1527-4e20-93b5-65d4aa271f7d" alt="all categories admin" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/e09cfd58-c8e4-4b1d-8749-10fc38f799fe" alt="all categories user" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/d1737873-266b-4fef-9a82-26179d94d378" alt="new products" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/424d9b91-f72f-4637-ae69-872f7360e2f5" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/347cf845-5ad7-4d13-a6c5-b562da7ad39b" alt="all categories admin" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/3f39bd13-0fdb-4cd3-9447-598a971ed71d" alt="all categories user" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/69c05cf5-9669-4cbd-82a4-c7c78b4547be" alt="new products" width="300"/></td>
   </tr>
 
   <tr>
