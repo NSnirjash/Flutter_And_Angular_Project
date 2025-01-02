@@ -111,22 +111,28 @@ A comprehensive, **cross-platform RMS system** for managing food, table booking,
   </tr>
 
   <tr>
-    <td align="center"><strong>Sales Management</strong></td>
-    <td align="center"><strong>Stock Management</strong></td>
-    <td align="center"><strong>Supplier Management</strong></td>
-    <td align="center"><strong>Mans Accessories </strong></td>
+    <td align="center"><strong>Bill Management</strong></td>
+    <td align="center"><strong>Print Bill</strong></td>
+    <td align="center"><strong>Approve Table Booking Request by Admin</strong></td>
+    <td align="center"><strong>Approve Table Booking Request by Admin Part 2</strong></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/6d5c0dcc-ad4a-4534-81c8-35ea23fb7145" alt="profile page" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/029f9ff5-a74c-4fa8-8303-396a0f3e0649" alt="all categories admin" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/f5185d25-ad19-4aab-8b3b-4b229185c5f8" alt="all categories user" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/bdb50df8-0bc5-4112-b7de-73d54bb3e902" alt="new products" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/360a40e7-52e4-4c27-bcdc-1adc3ad053b1" alt="profile page" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/bb553a25-ecc9-4d83-9997-e1d1f372312c" alt="all categories admin" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/a33d583c-25fb-484e-a6e3-caf97ab0505f" alt="all categories user" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/63b93953-f2c2-43a0-8c25-46b0470c110e" width="300"/></td>
   </tr>
 
+ <tr>
+    <td align="center"><strong>Approve Table Booking Request by Admin Part 3</strong></td>
+    <td align="center"><strong>Table Booking Details Page</strong></td>
+    <td align="center"><strong>Approve Table Booking Request by Admin</strong></td>
+    <td align="center"><strong>Approve Table Booking Request by Admin Part 2</strong></td>
+  </tr>
 
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/7e8aab5a-e97a-4550-8380-351488616840" alt="profile page" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/7cd5b900-ab81-468c-9757-1f6798aa7661" alt="all categories admin" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/01cc751d-3241-411d-9a87-3fb02fe3c21f" alt="profile page" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c0b04228-a5c6-4580-80e0-6ac86d41c4a0" alt="all categories admin" width="300"/></td>
     <td><img src="https://github.com/user-attachments/assets/851f198b-0f4a-4843-8872-6a6601ec608e" alt="all categories user" width="300"/></td>
     <td><img src="https://github.com/user-attachments/assets/7093ac1f-1171-42d5-bca9-fb53a8be221e" alt="new products" width="300"/></td>
   </tr>
