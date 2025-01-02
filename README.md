@@ -126,8 +126,36 @@ A comprehensive, **cross-platform RMS system** for managing food, table booking,
  <tr>
     <td align="center"><strong>Approve Table Booking Request by Admin Part 3</strong></td>
     <td align="center"><strong>Table Booking Details Page</strong></td>
-    <td align="center"><strong>Approve Table Booking Request by Admin</strong></td>
-    <td align="center"><strong>Approve Table Booking Request by Admin Part 2</strong></td>
+    <td align="center"><strong>User Profile</strong></td>
+    <td align="center"><strong>User Profile part 2</strong></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/01cc751d-3241-411d-9a87-3fb02fe3c21f" alt="profile page" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c0b04228-a5c6-4580-80e0-6ac86d41c4a0" alt="all categories admin" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/87c75fbe-a87d-49df-a945-981c4cba8f8a" alt="all categories user" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/1fe4632a-3f37-4df7-ad38-d60b6f721f28" alt="new products" width="300"/></td>
+  </tr>
+
+  <tr>
+    <td align="center"><strong>Settings Page</strong></td>
+    <td align="center"><strong>Notification Page</strong></td>
+    <td align="center"><strong>Privacy and Security page</strong></td>
+    <td align="center"><strong>Language Page</strong></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/f37c9482-8b08-4212-8c73-13969f0194d3" alt="profile page" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c0b04228-a5c6-4580-80e0-6ac86d41c4a0" alt="all categories admin" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/851f198b-0f4a-4843-8872-6a6601ec608e" alt="all categories user" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/7093ac1f-1171-42d5-bca9-fb53a8be221e" alt="new products" width="300"/></td>
+  </tr>
+
+  <tr>
+    <td align="center"><strong>About Page</strong></td>
+    <td align="center"><strong>Help and Support PagePage</strong></td>
+    <td align="center"><strong></strong></td>
+    <td align="center"><strong></strong></td>
   </tr>
 
   <tr>
